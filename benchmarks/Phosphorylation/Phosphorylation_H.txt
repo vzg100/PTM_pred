@@ -1,0 +1,41 @@
+CDC10_YEAST	P25342	314	Phosphohistidine.	17287358	Swiss-Prot 1010711	H	Phosphorylation	NSRSSAHMSSNAI
+ENVZ_ECOLI	P0AEJ4	243	Phosphohistidine; by autocatalysis.	8132603	Swiss-Prot 1010711	H	Phosphorylation	LMAGVSHDLRTPL
+GBB1_BOVIN	P62871	266	Phosphohistidine.	12486123	Swiss-Prot 1010711	H	Phosphorylation	ELMTYSHDNIICG
+GCHK_ANADF	A7HD43	183	Phosphohistidine; by autocatalysis.	21852234	Swiss-Prot 1010711	H	Phosphorylation	LVGSIGHDLRNPL
+GLCT_BACSU	O31691	104	Phosphohistidine; by EII-Glc.	9765562	Swiss-Prot 1010711	H	Phosphorylation	HIALTDHIAFAIK
+GLCT_STACT	O33618	105	Phosphohistidine; by HPr.	10974121	Swiss-Prot 1010711	H	Phosphorylation	MVALTDHILFAYK
+GLPK_ENTCA	O34153	232	Phosphohistidine; by HPr.	9162046	Swiss-Prot 1010711	H	Phosphorylation	GHTRSYHFYGSEV
+HSSS_STAAE	A6QJK4	249	Phosphohistidine; by autocatalysis.	17635909	Swiss-Prot 1010711	H	Phosphorylation	FVQNVSHEIKTPL
+KCNN4_HUMAN	O15554	358	Phosphohistidine.	17157250	Swiss-Prot 1010711	H	Phosphorylation	RQVRLKHRKLREQ
+LUXN_VIBHB	A7MRY4	471	Phosphohistidine; by autocatalysis.	10632884	Swiss-Prot 1010711	H	Phosphorylation	LANSIAHEMRNPL
+NTRB_ECOLI	P0AFB5	139	Phosphohistidine; by autocatalysis.	2016302	Swiss-Prot 1010711	H	Phosphorylation	LVRGLAHEIKNPL
+RSSA_SERMA	Q8GP19	248	Phosphohistidine; by autocatalysis.	16077114	Swiss-Prot 1010711	H	Phosphorylation	FMADAAHELRTPI
+SACY_BACSU	P15401	99	Phosphohistidine; by HPr.	11580842	Swiss-Prot 1010711	H	Phosphorylation	HVAFSDHLSFAIE
+SLN1_YEAST	P39928	576	Phosphohistidine; by autocatalysis.	8808622	Swiss-Prot 1010711	H	Phosphorylation	FIANISHELRTPL
+YPD1_YEAST	Q07688	64	Phosphohistidine.	8808622	Swiss-Prot 1010711	H	Phosphorylation	ELDNLGHFLKGSS
+ARCB_ECOLI	P0AEC3	292	Phosphohistidine; by autocatalysis.	-	Swiss-Prot 1010711	H	Phosphorylation	FISTISHELRTPL
+CHEA_ECOLI	P07363	48	Phosphohistidine; by autocatalysis.	-	Swiss-Prot 1010711	H	Phosphorylation	AIFRAAHSIKGGA
+CHEA_SALTY	P09384	48	Phosphohistidine; by autocatalysis.	-	Swiss-Prot 1010711	H	Phosphorylation	AIFRAAHSIKGGA
+KINB_PSEAI	O34206	385	Phosphohistidine; by autocatalysis.	-	Swiss-Prot 1010711	H	Phosphorylation	FVLRASHELRTPV
+LUXU_VIBHA	P0C5S4	58	Phosphohistidine.	-	Swiss-Prot 1010711	H	Phosphorylation	YLKEISHALKSSA
+PHOQ_SALTY	P14147	277	Phosphohistidine; by autocatalysis.	-	Swiss-Prot 1010711	H	Phosphorylation	TLTDLTHSLKTPL
+PHY1_SYNY3	Q55168	538	Phosphohistidine; by autocatalysis.	-	Swiss-Prot 1010711	H	Phosphorylation	FAYIASHDLQEPL
+PTHP_BACTI	Q9F166	14	Tele-phosphohistidine; alternate.	-	Swiss-Prot 1010711	H	Phosphorylation	TSDSGIHARPATL
+RCSD_ECOLI	P39838	842	Phosphohistidine.	-	Swiss-Prot 1010711	H	Phosphorylation	ALAQTAHRLKGVF
+SACY_BACSU	P15401	207	Phosphohistidine; by HPr.	-	Swiss-Prot 1010711	H	Phosphorylation	YERLVTHLRFAIQ
+SACY_BACSU	P15401	269	Phosphohistidine; by HPr.	-	Swiss-Prot 1010711	H	Phosphorylation	LCYIAMHIQRFYQ
+SP0B_BACSU	P06535	30	Phosphohistidine.	-	Swiss-Prot 1010711	H	Phosphorylation	LLGHSRHDWMNKL
+TRAP_STAA8	Q2G2F3	66	Phosphohistidine.	-	Swiss-Prot 1010711	H	Phosphorylation	GEFSEHHFYCAIF
+TRAP_STAA8	Q2G2F3	79	Phosphohistidine.	-	Swiss-Prot 1010711	H	Phosphorylation	IPSTEDHAYQLEK
+TRAP_STAA8	Q2G2F3	154	Phosphohistidine.	-	Swiss-Prot 1010711	H	Phosphorylation	FGSSGQHSSYFER
+G6PC_HUMAN	P35575	176	Phosphohistidine	12093795	HPRD 9.0	H	Phosphorylation	RIYLAAHFPHQVV
+NDKB_HUMAN	P22392	118	Phosphohistidine (NME2)	1851158	HPRD 9.0	H	Phosphorylation	VGRNIIHGSDSVK
+ACLY_HUMAN	P53396	760	Phosphohistidine	12788074	Phosphositeplus.1010730	H	Phosphorylation	SEVQFGHAGACAN
+ACLY_MOUSE	Q91V92	750	Phosphohistidine	18656514	Phosphositeplus.1010730	H	Phosphorylation	SEVQFGHAGACAN
+ACLY_RAT	P16638	759	Phosphohistidine	7665595	Phosphositeplus.1010730	H	Phosphorylation	SEVQFGHAGACAN
+G6PC_HUMAN	P35575	176	Phosphohistidine	12093795	Phosphositeplus.1010730	H	Phosphorylation	RIYLAAHFPHQVV
+GBB1_HUMAN	P62873	266	Phosphohistidine	12486123;16039992	Phosphositeplus.1010730	H	Phosphorylation	ELMTYSHDNIICG
+GBB1_RAT	P54311	266	Phosphohistidine	16039992	Phosphositeplus.1010730	H	Phosphorylation	ELMTYSHDNIICG
+KCNN4_HUMAN	O15554	358	Phosphohistidine	17157250;18796614;21679093	Phosphositeplus.1010730	H	Phosphorylation	RQVRLKHRKLREQ
+NDKA_HUMAN	P15531	118	Phosphohistidine	12859952;17155928;21121676	Phosphositeplus.1010730	H	Phosphorylation	VGRNIIHGSDSVE
+NDKB_HUMAN	P22392	118	Phosphohistidine	17157250	Phosphositeplus.1010730	H	Phosphorylation	VGRNIIHGSDSVK

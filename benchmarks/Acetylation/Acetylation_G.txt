@@ -1,0 +1,65 @@
+ADH1A_UROHA	P25405	1	N-acetylglycine.	8612630	Swiss-Prot 1010711	G	Acetylation	GTAGKVIKCK
+ANS1A_HUMAN	Q92625	2	N-acetylglycine.	12439753	Swiss-Prot 1010711	G	Acetylation	GKEQELLEAA
+CYC_ALLMI	P81280	2	N-acetylglycine.	8384830	Swiss-Prot 1010711	G	Acetylation	GDVEKGKKIF
+CYC_BOVIN	P62894	2	N-acetylglycine.	5933874	Swiss-Prot 1010711	G	Acetylation	GDVEKGKKIF
+CYC_CAMDR	P68099	2	N-acetylglycine.	5061872	Swiss-Prot 1010711	G	Acetylation	GDVEKGKKIF
+CYC_CANFA	P00011	2	N-acetylglycine.	5846985	Swiss-Prot 1010711	G	Acetylation	GDVEKGKKIF
+CYC_CHESE	P00022	2	N-acetylglycine.	5968568	Swiss-Prot 1010711	G	Acetylation	GDVEKGKKIF
+CYC_CHICK	P67881	2	N-acetylglycine.	5903744	Swiss-Prot 1010711	G	Acetylation	GDIEKGKKIF
+CYC_CROAD	P68517	2	N-acetylglycine.	5835940	Swiss-Prot 1010711	G	Acetylation	GDVEKGKKIF
+CYC_CROAT	P68518	2	N-acetylglycine.	1849408	Swiss-Prot 1010711	G	Acetylation	GDVEKGKKIF
+CYC_CROVV	P68519	2	N-acetylglycine.	1849408	Swiss-Prot 1010711	G	Acetylation	GDVEKGKKIF
+CYC_DRONO	P00018	2	N-acetylglycine.	4349739	Swiss-Prot 1010711	G	Acetylation	GDIEKGKKIF
+CYC_ESCGI	P68100	2	N-acetylglycine.	5922971	Swiss-Prot 1010711	G	Acetylation	GDVEKGKKIF
+CYC_EUGGR	P00076	1	N-acetylglycine.	170910	Swiss-Prot 1010711	G	Acetylation	GDAERGKKLF
+CYC_EUGVI	P22342	1	N-acetylglycine.	1645532	Swiss-Prot 1010711	G	Acetylation	GDAERGKKLF
+CYC_HIPAM	P00007	2	N-acetylglycine.	214435	Swiss-Prot 1010711	G	Acetylation	GDVEKGKKIF
+CYC_HORSE	P00004	2	N-acetylglycine.	14469771	Swiss-Prot 1010711	G	Acetylation	GDVEKGKKIF
+CYC_HUMAN	P99999	2	N-acetylglycine.	13933734	Swiss-Prot 1010711	G	Acetylation	GDVEKGKKIF
+CYC_KATPE	P00025	2	N-acetylglycine.	5106585	Swiss-Prot 1010711	G	Acetylation	GDVAKGKKTF
+CYC_LAMGU	P68098	2	N-acetylglycine.	188448	Swiss-Prot 1010711	G	Acetylation	GDVEKGKKIF
+CYC_LAMTR	P00028	2	N-acetylglycine.	4355549	Swiss-Prot 1010711	G	Acetylation	GDVEKGKKVF
+CYC_MACGI	P00014	2	N-acetylglycine.	5933863	Swiss-Prot 1010711	G	Acetylation	GDVEKGKKIF
+CYC_MACMU	P00002	2	N-acetylglycine.	4954366	Swiss-Prot 1010711	G	Acetylation	GDVEKGKKIF
+CYC_MIRLE	P00012	2	N-acetylglycine.	4553890	Swiss-Prot 1010711	G	Acetylation	GDVEKGKKIF
+CYC_MOUSE	P62897	2	N-acetylglycine.	191069	Swiss-Prot 1010711	G	Acetylation	GDVEKGKKIF
+CYC_RABIT	P00008	2	N-acetylglycine.	5905125	Swiss-Prot 1010711	G	Acetylation	GDVEKGKKIF
+CYC_RAT	P62898	2	N-acetylglycine.	191069	Swiss-Prot 1010711	G	Acetylation	GDVEKGKKIF
+CYC_SQUSU	P00027	2	N-acetylglycine.	6061416	Swiss-Prot 1010711	G	Acetylation	GDVEKGKKVF
+CYC_STRCA	P00019	2	N-acetylglycine.	4364857	Swiss-Prot 1010711	G	Acetylation	GDIEKGKKIF
+CYC_VARVA	P21665	2	N-acetylglycine.	1849408	Swiss-Prot 1010711	G	Acetylation	GDVEKGKKIF
+CYC2_MOUSE	P00015	2	N-acetylglycine.	240690	Swiss-Prot 1010711	G	Acetylation	GDAEAGKKIF
+GLB_NERAL	P0C227	1	N-acetylglycine.	12672482	Swiss-Prot 1010711	G	Acetylation	GDVDVLKSLS
+GLB1_PARCH	P15161	2	N-acetylglycine.	2804131	Swiss-Prot 1010711	G	Acetylation	GGTLAIQSHG
+HBG1_HUMAN	P69891	2	N-acetylglycine; in form Hb F1.	5554303	Swiss-Prot 1010711	G	Acetylation	GHFTEEDKAT
+HBG2_HUMAN	P69892	2	N-acetylglycine; in form Hb F1.	5554303	Swiss-Prot 1010711	G	Acetylation	GHFTEEDKAT
+KGUA_PIG	P31006	2	N-acetylglycine.	8097461	Swiss-Prot 1010711	G	Acetylation	GSPRPVVLSG
+NCPR_PIG	P04175	2	N-acetylglycine.	3099837	Swiss-Prot 1010711	G	Acetylation	GDSNVDTGTT
+OVAL_CHICK	P01012	2	N-acetylglycine.	272676;751625	Swiss-Prot 1010711	G	Acetylation	GSIGAASMEF
+PDE6A_BOVIN	P11541	2	N-acetylglycine.	2822478	Swiss-Prot 1010711	G	Acetylation	GEVTAEEVEK
+PSAN_ARATH	P49107	87	N-acetylglycine; partial.	18431481	Swiss-Prot 1010711	G	Acetylation	GVIDEYLERS
+1433F_HUMAN	Q04917	2	N-acetylglycine.	-	Swiss-Prot 1010711	G	Acetylation	GDREQLLQRA
+ADT1_HUMAN	P12235	2	N-acetylglycine.	-	Swiss-Prot 1010711	G	Acetylation	GDHAWSFLKD
+ADT1_RAT	Q05962	2	N-acetylglycine.	-	Swiss-Prot 1010711	G	Acetylation	GDQALSFLKD
+CYC_ANAPL	P00020	2	N-acetylglycine.	-	Swiss-Prot 1010711	G	Acetylation	GDVEKGKKIF
+CYC_APTPA	P00017	2	N-acetylglycine.	-	Swiss-Prot 1010711	G	Acetylation	GDIEKGKKIF
+CYC_MELGA	P67882	2	N-acetylglycine.	-	Swiss-Prot 1010711	G	Acetylation	GDIEKGKKIF
+CYC_PANTR	P99998	2	N-acetylglycine.	-	Swiss-Prot 1010711	G	Acetylation	GDVEKGKKIF
+CYC_PIG	P62895	2	N-acetylglycine.	-	Swiss-Prot 1010711	G	Acetylation	GDVEKGKKIF
+CYC_THUAA	P81459	1	N-acetylglycine.	-	Swiss-Prot 1010711	G	Acetylation	GDVAKGKKTF
+F203A_HUMAN	Q9BTY7	2	N-acetylglycine.	-	Swiss-Prot 1010711	G	Acetylation	GEAGAGAGAS
+GLBC_CAUAR	P80018	2	N-acetylglycine.	-	Swiss-Prot 1010711	G	Acetylation	GGTLAIQAQG
+GLBD_CAUAR	P80017	2	N-acetylglycine.	-	Swiss-Prot 1010711	G	Acetylation	GATQSFQSVG
+NCPR_HUMAN	P16435	2	N-acetylglycine.	-	Swiss-Prot 1010711	G	Acetylation	GDSHVDTSST
+NSUN5_HUMAN	Q96P11	2	N-acetylglycine.	-	Swiss-Prot 1010711	G	Acetylation	GLYAAAAGVL
+PRP16_HUMAN	Q92620	2	N-acetylglycine.	-	Swiss-Prot 1010711	G	Acetylation	GDTSEDASIH
+PXG1_ARATH	O81270	2	N-acetylglycine.	-	Swiss-Prot 1010711	G	Acetylation	GSKTEMMERD
+RB11A_HUMAN	P62491	2	N-acetylglycine.	-	Swiss-Prot 1010711	G	Acetylation	GTRDDEYDYL
+RB11B_HUMAN	Q15907	2	N-acetylglycine.	-	Swiss-Prot 1010711	G	Acetylation	GTRDDEYDYL
+SDPR_HUMAN	O95810	2	N-acetylglycine.	-	Swiss-Prot 1010711	G	Acetylation	GEDAAQAEKF
+SYYC_HUMAN	P54577	2	N-acetylglycine.	-	Swiss-Prot 1010711	G	Acetylation	GDAPSPEEKL
+TNNI2_RABIT	P02643	2	N-acetylglycine.	-	Swiss-Prot 1010711	G	Acetylation	GDEEKRNRAI
+US02_HHV11	P06485	2	N-acetylglycine; by host; partial.	-	Swiss-Prot 1010711	G	Acetylation	GVVVVNVMTL
+XYNA_PAEVA	P81536	1	N-acetylglycine.	-	Swiss-Prot 1010711	G	Acetylation	GTTPNSEGWH
+HBB_FELCA	P07412	1	N-acetylserine; in variant beta-B.	-	Swiss-Prot 1010711	G	Acetylation	GFLTAEEKGL
+HBG1_HUMAN	P69891	2	N-acetylglycine	5554303	HPRD 9.0	G	Acetylation	GHFTEEDKAT

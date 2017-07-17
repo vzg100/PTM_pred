@@ -1,0 +1,145 @@
+AATC_HORSE	P08906	2	N-acetylthreonine.	3104605;6466688	Swiss-Prot 1010711	T	Acetylation	TSPSIFVEVP
+ADH4_STRCA	P80468	1	N-acetylthreonine.	7607314;8706859	Swiss-Prot 1010711	T	Acetylation	TTEGKVIKCK
+ADHX_OCTVU	P81431	1	N-acetylthreonine.	8248232	Swiss-Prot 1010711	T	Acetylation	TDATGKPIKC
+ADRM1_HUMAN	Q16186	2	N-acetylthreonine.	17323924	Swiss-Prot 1010711	T	Acetylation	TTSGALFPSL
+ALF_DROME	P07764	2	N-acetylthreonine.	1959612;3918528	Swiss-Prot 1010711	T	Acetylation	TTYFNYPSKE
+ARGD_MYCTU	P63568	2	N-acetylthreonine; partial.	17259624	Swiss-Prot 1010711	T	Acetylation	TGASTTTATM
+ARPC4_HUMAN	P59998	2	N-acetylthreonine.	12665801	Swiss-Prot 1010711	T	Acetylation	TATLRPYLSA
+CRBA4_RAT	P56374	2	N-acetylthreonine.	11773034	Swiss-Prot 1010711	T	Acetylation	TLQCTKSAGH
+CRO_LITCT	P17264	2	N-acetylthreonine.	2190986	Swiss-Prot 1010711	T	Acetylation	TLTKETRVTL
+CTNA2_MOUSE	Q61301	2	N-acetylthreonine.	16452087	Swiss-Prot 1010711	T	Acetylation	TSATSPIILK
+F16P1_PIG	P00636	2	N-acetylthreonine.	6291465;6296821	Swiss-Prot 1010711	T	Acetylation	TDQAAFDTNI
+F16P1_SHEEP	P09199	2	N-acetylthreonine.	6264908;6316885	Swiss-Prot 1010711	T	Acetylation	TDEAPFDTNI
+GLB2_PHAPT	P41261	2	N-acetylthreonine.	1815587	Swiss-Prot 1010711	T	Acetylation	TTLTNPQKAA
+GLPX_MYCTU	O53447	2	N-acetylthreonine; partial.	17259624	Swiss-Prot 1010711	T	Acetylation	TAEGSGSSTA
+H4_LITVA	P83865	2	N-acetylthreonine.	17405180	Swiss-Prot 1010711	T	Acetylation	TGRGKGGKGL
+HN1_HUMAN	Q9UK76	2	N-acetylthreonine.	16602700	Swiss-Prot 1010711	T	Acetylation	TTTTTFKGVD
+HPPD_PIG	Q02110	2	N-acetylthreonine.	1339442	Swiss-Prot 1010711	T	Acetylation	TSYSDKGEKP
+HPPD_RAT	P32755	2	N-acetylthreonine.	12867153	Swiss-Prot 1010711	T	Acetylation	TTYSNKGPKP
+IFEB_HELPO	P16275	1	N-acetylthreonine.	3181126	Swiss-Prot 1010711	T	Acetylation	TSKISTTYEE
+K6PF_RABIT	P00511	2	N-acetylthreonine.	6233492	Swiss-Prot 1010711	T	Acetylation	THEEHHAART
+MYG_HETPO	P02206	2	N-acetylthreonine.	508202	Swiss-Prot 1010711	T	Acetylation	TEWEHVNKVW
+PIL1_SALTI	P12060	56	N-acetylthreonine.	6130062	Swiss-Prot 1010711	T	Acetylation	TDLLAGGKDD
+PME_ACTDE	P85076	1	N-acetylthreonine.	17932919	Swiss-Prot 1010711	T	Acetylation	TAVTDIVPDV
+PRS8_YEAST	Q01939	2	N-acetylthreonine.	12504901	Swiss-Prot 1010711	T	Acetylation	TAAVTSSNIV
+PRVA_LATCH	P02629	1	N-acetylthreonine; in form C2.	30486	Swiss-Prot 1010711	T	Acetylation	TKKMSEILKA
+PSBA_ARATH	P83755	2	N-acetylthreonine.	11113141	Swiss-Prot 1010711	T	Acetylation	TAILERRESE
+PSBA_SPIOL	P69560	2	N-acetylthreonine.	3121625	Swiss-Prot 1010711	T	Acetylation	TAILERRESE
+PSBC_ARATH	P56778	15	N-acetylthreonine.	11113141	Swiss-Prot 1010711	T	Acetylation	TLFNGTLALA
+PSBD_ARATH	P56761	2	N-acetylthreonine.	11113141	Swiss-Prot 1010711	T	Acetylation	TIALGKFTKD
+PSBD_SPIOL	P06005	2	N-acetylthreonine.	3121625	Swiss-Prot 1010711	T	Acetylation	TIAVGKFTKD
+RAB37_HUMAN	Q96AX2	2	N-acetylthreonine.	12665801	Swiss-Prot 1010711	T	Acetylation	TGTPGAVATR
+RL36A_YEAST	P05745	2	N-acetylthreonine.	10601260	Swiss-Prot 1010711	T	Acetylation	TVKTGIAIGL
+RR9_SPIOL	P82278	41	N-acetylthreonine.	10874039	Swiss-Prot 1010711	T	Acetylation	TSATAPVEVA
+TNNC2_HUMAN	P02585	2	N-acetylthreonine.	978749	Swiss-Prot 1010711	T	Acetylation	TDQQAEARSY
+TNNC2_RABIT	P02586	2	N-acetylthreonine.	3680204	Swiss-Prot 1010711	T	Acetylation	TDQQAEARSY
+UB2G1_HUMAN	P62253	2	N-acetylthreonine.	12665801	Swiss-Prot 1010711	T	Acetylation	TELQSALLLR
+1433B_BOVIN	P68250	2	N-acetylthreonine; in 14-3-3 proteinbeta/alpha, N-terminally processed (By	-	Swiss-Prot 1010711	T	Acetylation	TMDKSELVQK
+1433B_HUMAN	P31946	2	N-acetylthreonine; in 14-3-3 proteinbeta/alpha, N-terminally processed.	-	Swiss-Prot 1010711	T	Acetylation	TMDKSELVQK
+1433B_MACFA	Q4R572	2	N-acetylthreonine; in 14-3-3 proteinbeta/alpha, N-terminally processed (By	-	Swiss-Prot 1010711	T	Acetylation	TMDKSELVQK
+1433B_MOUSE	Q9CQV8	2	N-acetylthreonine; in 14-3-3 proteinbeta/alpha, N-terminally processed (By	-	Swiss-Prot 1010711	T	Acetylation	TMDKSELVQK
+1433B_PONAB	A4K2U9	2	N-acetylthreonine; in 14-3-3 proteinbeta/alpha, N-terminally processed (By	-	Swiss-Prot 1010711	T	Acetylation	TMDKSELVQK
+1433B_RAT	P35213	2	N-acetylthreonine; in 14-3-3 proteinbeta/alpha, N-terminally processed (By	-	Swiss-Prot 1010711	T	Acetylation	TMDKSELVQK
+1433B_SHEEP	P68251	2	N-acetylthreonine; in 14-3-3 proteinbeta/alpha, N-terminally processed.	-	Swiss-Prot 1010711	T	Acetylation	TMDKSELVQK
+ADT2_HUMAN	P05141	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TDAAVSFAKD
+ADT2_MOUSE	P51881	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TDAAVSFAKD
+ADT2_RAT	Q09073	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TDAAVSFAKD
+ADT3_HUMAN	P12236	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TEQAISFAKD
+AK1A1_MOUSE	Q9JII6	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TASSVLLHTG
+AK1A1_RAT	P51635	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TASSVLLHTG
+AMPL_BOVIN	P00727	33	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TKGLVLGIYS
+ARPC4_MOUSE	P59999	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TATLRPYLSA
+CRBA4_HUMAN	P53673	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TLQCTKSAGP
+CTNA1_HUMAN	P35221	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TAVHAGNINF
+CWC15_HUMAN	Q9P013	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TTAARPTFEP
+E41L2_HUMAN	O43491	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TTEVGSVSEV
+EBP_MOUSE	P70245	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TTNTVPLHPY
+ERG7_YEAST	P38604	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TEFYSDTIGL
+FKBP4_BOVIN	Q9TRY0	2	N-acetylthreonine; in FK506-bindingprotein 4, N-terminally processed;	-	Swiss-Prot 1010711	T	Acetylation	TAEETKAAES
+FKBP4_HUMAN	Q02790	2	N-acetylthreonine; in FK506-bindingprotein 4, N-terminally processed;	-	Swiss-Prot 1010711	T	Acetylation	TAEEMKATES
+FKBP4_MOUSE	P30416	2	N-acetylthreonine; in FK506-bindingprotein 4, N-terminally processed;	-	Swiss-Prot 1010711	T	Acetylation	TAEEMKAAEN
+FKBP4_RABIT	P27124	2	N-acetylthreonine; in FK506-bindingprotein 4, N-terminally processed;	-	Swiss-Prot 1010711	T	Acetylation	TAEEMKAAES
+FKBP4_RAT	Q9QVC8	2	N-acetylthreonine; in FK506-bindingprotein 4, N-terminally processed;	-	Swiss-Prot 1010711	T	Acetylation	TAEEMKVAEN
+FSCN1_HUMAN	Q16658	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TANGTAEAVQ
+GBLP_HUMAN	P63244	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TEQMTLRGTL
+GBLP_MOUSE	P68040	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TEQMTLRGTL
+GDIR2_HUMAN	P52566	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TEKAPEPHVE
+GLYG_RABIT	P13280	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TDQAFVTLTT
+GSTA1_DICDI	Q55FF3	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TTNKPSFSYF
+GSTA3_DICDI	Q54VI4	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TKPQLSYFKV
+H10_HUMAN	P07305	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TENSTSAPAA
+IFEA_HELPO	P16274	1	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TSKISTTYEE
+IKKA_HUMAN	O15111	179	O-acetylthreonine; by Yersinia yopJ.	-	Swiss-Prot 1010711	T	Acetylation	TSFVGTLQYL
+IKKB_HUMAN	O14920	180	O-acetylthreonine; by Yersinia yopJ.	-	Swiss-Prot 1010711	T	Acetylation	TSFVGTLQYL
+MLE3_LIZRA	P82160	1	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TEFSADQIED
+MLR_PHYPO	P08053	1	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TASADQIQEC
+MP2K6_HUMAN	P52564	211	O-acetylthreonine; by Yersinia yopJ;alternate.	-	Swiss-Prot 1010711	T	Acetylation	TIDAGCKPYM
+NAA38_HUMAN	O95777	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TSALENYINR
+NFAC3_HUMAN	Q12968	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TTANCGAHDE
+NH2L1_HUMAN	P55769	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TEADVNPKAY
+NTM1A_HUMAN	Q9BV86	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TSEVIEDEKQ
+PDLI1_HUMAN	O00151	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TTQQIDLQGP
+PHLP_HUMAN	Q13371	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TTLDDKLLGE
+PSBA_PEA	P06585	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TAILERRDSE
+PSBD_PEA	P06006	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TIALGKFTKD
+RASH_HUMAN	P01112	2	N-acetylthreonine; in GTPase HRas, N-terminally processed.	-	Swiss-Prot 1010711	T	Acetylation	TEYKLVVVGA
+RASK_HUMAN	P01116	2	N-acetylthreonine; in GTPase KRas, N-terminally processed.	-	Swiss-Prot 1010711	T	Acetylation	TEYKLVVVGA
+RB27B_HUMAN	O00194	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TDGDYDYLIK
+RL4_DICDI	Q54Z69	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TTRPFVQVFD
+RS16_CAEEL	Q22054	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TSTVQSVQTF
+RS5_BOVIN	Q5E988	2	N-acetylthreonine; in 40S ribosomalprotein S5, N-terminally processed (By	-	Swiss-Prot 1010711	T	Acetylation	TEWETAAPAV
+RS5_DICDI	Q54MA6	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TSEVALFGKW
+RS5_HUMAN	P46782	2	N-acetylthreonine; in 40S ribosomalprotein S5, N-terminally processed.	-	Swiss-Prot 1010711	T	Acetylation	TEWETAAPAV
+RS5_MOUSE	P97461	2	N-acetylthreonine; in 40S ribosomalprotein S5, N-terminally processed (By	-	Swiss-Prot 1010711	T	Acetylation	TEWEAATPAV
+RS5_RAT	P24050	2	N-acetylthreonine; in 40S ribosomalprotein S5, N-terminally processed (By	-	Swiss-Prot 1010711	T	Acetylation	TEWETATPAV
+SCP_MIZYE	P02637	1	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TDYLVSKWKI
+SMAD5_HUMAN	Q99717	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TSMASLFSFT
+TNNC_MIZYE	P35622	1	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TEEFRASEKQ
+VATC1_HUMAN	P21283	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TEFWLISAPG
+WDR61_RAT	Q4V7A0	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TNQYSILFKQ
+Y9086_DICDI	Q55EQ3	2	N-acetylthreonine.	-	Swiss-Prot 1010711	T	Acetylation	TSSVSNLLTS
+IKKA_HUMAN	O15111	722	N-acetylthreonine	17116858	Phosphositeplus.1010730	T	Acetylation	TIIHEANEEQ
+IKKB_HUMAN	O14920	180	N-acetylthreonine	17116858	Phosphositeplus.1010730	T	Acetylation	TSFVGTLQYL
+IKKB_MOUSE	O88351	180	N-acetylthreonine	21726807	Phosphositeplus.1010730	T	Acetylation	TSFVGTLQYL
+MP2K2_HUMAN	P36507	13	N-acetylthreonine	17116858	Phosphositeplus.1010730	T	Acetylation	TINPTIAEGP
+PDLI1_HUMAN	O00151	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TTQQIDLQGP
+E41L2_HUMAN	O43491	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TTEVGSVSEV
+SSNA1_HUMAN	O43805	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TQQGAALQNY
+UBR5_HUMAN	O95071	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TSIHFVVHPL
+NDUB6_HUMAN	O95139	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TGYTPDEKLR
+ADT2_HUMAN	P05141	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TDAAVSFAKD
+H10_HUMAN	P07305	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TENSTSAPAA
+RU17_HUMAN	P08621	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TQFLPPNLLA
+ADT3_HUMAN	P12236	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TEQAISFAKD
+GLNA_HUMAN	P15104	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TTSASSHLNK
+GLYC_HUMAN	P34896	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TMPVNGAHKD
+RS5_HUMAN	P46782	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TEWETAAPAV
+GLYG_HUMAN	P46976	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TDQAFVTLTT
+COPB_HUMAN	P53618	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TAAENVCYTL
+NH2L1_HUMAN	P55769	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TEADVNPKAY
+ARPC4_HUMAN	P59998	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TATLRPYLSA
+RAB5B_HUMAN	P61020	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TSRSTARPNG
+GBLP_HUMAN	P63244	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TEQMTLRGTL
+SPTB2_HUMAN	Q01082	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TTTVATDYDN
+PTN11_HUMAN	Q06124	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TSRRWFHPNI
+CG059_HUMAN	Q0VGL1	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TSALTQGLER
+FHL2_HUMAN	Q14192	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TERFDCHHCN
+GRB14_HUMAN	Q14449	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TTSLQDGQSA
+FL2D_HUMAN	Q15007	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TNEEPLPKKV
+RBP1_HUMAN	Q15311	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TECFLPPTSS
+ADRM1_HUMAN	Q16186	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TTSGALFPSL
+LRRF1_HUMAN	Q32MZ4	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TSPAAAQSRE
+BROX_HUMAN	Q5VW32	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	THWFHRNPLK
+MPP5_HUMAN	Q8N3R9	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TTSHMNGHVT
+RAM_HUMAN	Q9BTL3	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TDTAEAVPKF
+NTM1A_HUMAN	Q9BV86	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TSEVIEDEKQ
+SF3B5_HUMAN	Q9BWJ5	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TDRYTIHSQL
+GNB1L_HUMAN	Q9BYB4	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TAPCPPPPPD
+ARP6_HUMAN	Q9GZN1	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TTLVLDNGAY
+WDR61_HUMAN	Q9GZS3	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TNQYGILFKQ
+ACO13_HUMAN	Q9NPJ3	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TSMTQSLREV
+FAIM1_HUMAN	Q9NVQ4	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TDLVAVWDVA
+CWC15_HUMAN	Q9P013	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TTAARPTFEP
+E41L3_HUMAN	Q9Y2J2	2	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TTESGSDSES
+FHL2_HUMAN	Q14192	112	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TRKMEYKGSS
+PTER_HUMAN	Q96BW5	226	N-acetylthreonine	19413330	HPRD 9.0	T	Acetylation	TVMSHLDRTI

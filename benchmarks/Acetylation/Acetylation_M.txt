@@ -1,0 +1,618 @@
+1433E_HUMAN	P62258	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDDREDLVYQ
+1433T_HUMAN	P27348	1	N-acetylmethionine.	19608861	Swiss-Prot 1010711	M	Acetylation	MEKTELIQKA
+1433Z_HUMAN	P63104	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDKNELVQKA
+1433Z_SHEEP	P29361	1	N-acetylmethionine.	1317796	Swiss-Prot 1010711	M	Acetylation	MDKNELVQKA
+AAAT_HUMAN	Q15758	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MVADPPRDSK
+AAKG1_HUMAN	P54619	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	METVISSDSS
+ABRAL_HUMAN	Q9P1F3	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MNVDHEVNLL
+ABT1_HUMAN	Q9ULW3	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEAEESEKAA
+ACPH_HUMAN	P13798	1	N-acetylmethionine.	10395453	Swiss-Prot 1010711	M	Acetylation	MERQVLLSEP
+ACPH_PIG	P19205	1	N-acetylmethionine.	2691504;8576092	Swiss-Prot 1010711	M	Acetylation	MERQVLLSEP
+ACSL1_RAT	P18163	1	N-acetylmethionine.	17478130	Swiss-Prot 1010711	M	Acetylation	MEVHELFRYF
+ACT_YEAST	P60010	1	N-acetylmethionine.	1885608	Swiss-Prot 1010711	M	Acetylation	MDSEVAALVI
+ACTO_ACACA	P18281	1	N-acetylmethionine.	2376577	Swiss-Prot 1010711	M	Acetylation	MNPELQSAIG
+ACTY_HUMAN	P42025	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MESYDIIANQ
+ACTZ_HUMAN	P61163	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MESYDVIANQ
+ADAT3_HUMAN	Q96EY9	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEPAPGLVEQ
+ADDA_HUMAN	P35611	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MNGDSRAAVV
+ADH_DROLE	P10807	1	N-acetylmethionine.	2707261	Swiss-Prot 1010711	M	Acetylation	MDLTNKNVIF
+AGM1_HUMAN	O95394	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDLGAITKYS
+AK1C2_HUMAN	P52895	1	N-acetylmethionine.	19608861	Swiss-Prot 1010711	M	Acetylation	MDSKYQCVKL
+AOFA_HUMAN	P21397	1	N-acetylmethionine.	11812236	Swiss-Prot 1010711	M	Acetylation	MENQEKASIA
+ARI3B_HUMAN	Q8IVW6	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEPLQQQQQQ
+ARL3_YEAST	Q02804	1	N-acetylmethionine.	15077113;15077114	Swiss-Prot 1010711	M	Acetylation	MFHLVKGLYN
+ARL8B_HUMAN	Q9NVJ2	1	N-acetylmethionine.	16537643	Swiss-Prot 1010711	M	Acetylation	MLALISRLLD
+ARRS_BOVIN	P08168	1	N-acetylmethionine; partial.	3478675	Swiss-Prot 1010711	M	Acetylation	MKANKPAPNH
+ASGL1_HUMAN	Q7L266	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MNPIVVVHGG
+AT2A3_HUMAN	Q93084	1	N-acetylmethionine.	12665801	Swiss-Prot 1010711	M	Acetylation	MEAAHLLPAA
+ATG13_HUMAN	O75143	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	METDLNSQDR
+ATG3_HUMAN	Q9NT62	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MQNVINTVKG
+ATG4B_HUMAN	Q9Y4P1	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDAATLTYDT
+ATG4C_HUMAN	Q96DT6	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEATGTDEVD
+ATTY_RAT	P04694	1	N-acetylmethionine.	2863382	Swiss-Prot 1010711	M	Acetylation	MDSYVIQTDV
+ATX2L_HUMAN	Q8WWM7	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MLKPQPLQQP
+B3AT_HUMAN	P02730	1	N-acetylmethionine.	701248	Swiss-Prot 1010711	M	Acetylation	MEELQDDYED
+BAG6_HUMAN	P46379	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEPNDSTSTA
+BAX_HUMAN	Q07812	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDGSGEQPRG
+BCAT1_HUMAN	P54687	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MKDCSNGCSA
+BCL10_HUMAN	O95999	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEPTAPSLTE
+BIEA_HUMAN	P53004	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MNAEPERKFG
+BLMH_RAT	P70645	1	N-acetylmethionine.	8907172	Swiss-Prot 1010711	M	Acetylation	MNNAGLNSEK
+BOLA2_HUMAN	Q9H3K6	1	N-acetylmethionine.	12665801;19413330	Swiss-Prot 1010711	M	Acetylation	MELSAEYLRE
+BRD2_HUMAN	P25440	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MLQNVTPHNK
+BRE_HUMAN	Q9NXR7	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MSPEVALNRI
+C2AIL_HUMAN	Q96HQ2	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MVGGEAAAAV
+CA144_HUMAN	Q7Z422	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEDEEVAESW
+CAPSD_CMVC	P21368	1	N-acetylmethionine; by host.	6754709	Swiss-Prot 1010711	M	Acetylation	MDKSESTSAG
+CAPSD_CMVFC	Q00259	1	N-acetylmethionine; by host.	6754709	Swiss-Prot 1010711	M	Acetylation	MDKSESTSAG
+CAPSD_CMVKI	Q06934	1	N-acetylmethionine; by host.	6754709	Swiss-Prot 1010711	M	Acetylation	MDKSGSPNAS
+CAPSD_CMVO	P16489	1	N-acetylmethionine; by host.	6754709	Swiss-Prot 1010711	M	Acetylation	MDKSESTSAG
+CAPSD_CMVP6	Q00261	1	N-acetylmethionine; by host.	6754709	Swiss-Prot 1010711	M	Acetylation	MDKSESTSAG
+CAPSD_CMVQ	P03605	1	N-acetylmethionine; by host.	6754709	Swiss-Prot 1010711	M	Acetylation	MDKSGSPNAS
+CAPSD_CMVWL	P24147	1	N-acetylmethionine; by host.	6754709	Swiss-Prot 1010711	M	Acetylation	MDKSGSPNAS
+CAPSD_CMVY	P18027	1	N-acetylmethionine; by host.	3997790	Swiss-Prot 1010711	M	Acetylation	MDKSESTSAG
+CASP3_HUMAN	P42574	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MENTENSVDS
+CBX8_HUMAN	Q9HC52	1	N-acetylmethionine.	19007248	Swiss-Prot 1010711	M	Acetylation	MELSAVGERV
+CCD12_HUMAN	Q8WUD4	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEATTAGVGR
+CCD97_HUMAN	Q96F63	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEAVATATAA
+CD2A1_HUMAN	P42771	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEPAAGSSME
+CDC37_HUMAN	Q16543	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MVDYSVWDHI
+CDK1_HUMAN	P06493	1	N-acetylmethionine.	19608861	Swiss-Prot 1010711	M	Acetylation	MEDYTKIEKI
+CDK2_HUMAN	P24941	1	N-acetylmethionine.	19608861	Swiss-Prot 1010711	M	Acetylation	MENFQKVEKI
+CDN2D_HUMAN	P55273	1	N-acetylmethionine.	12665801	Swiss-Prot 1010711	M	Acetylation	MLLEEVRAGD
+CELF1_HUMAN	Q92879	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MNGTLDHPDQ
+CENPH_HUMAN	Q9H3R5	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEEQPQMQDA
+CHERP_HUMAN	Q8IWX8	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEMPLPPDDQ
+CHM1A_HUMAN	Q9HD42	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDDTLFQLKF
+CHM2A_HUMAN	O43633	1	N-acetylmethionine.	12665801	Swiss-Prot 1010711	M	Acetylation	MDLLFGRRKT
+CI064_HUMAN	Q5T6V5	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDGLLNPRES
+CK010_HUMAN	P61165	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MELEAMSRYT
+CKLF6_HUMAN	Q9NX76	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MENGAVYSPT
+CN043_HUMAN	Q6PJG2	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MNLQAQPKAQ
+COMD3_HUMAN	Q9UBI1	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MELSESVQKG
+COMD6_HUMAN	Q7Z4G1	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEASSEPPLD
+COPZ1_HUMAN	P61923	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEALILEPSL
+CPNS1_HUMAN	P04632	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MFLVNSFLKG
+CPYI_YEAST	P14306	1	N-acetylmethionine.	12473200	Swiss-Prot 1010711	M	Acetylation	MNQAIDFAQA
+CR015_HUMAN	Q96N68	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MQGQGALKES
+CRYAA_BOVIN	P02470	1	N-acetylmethionine.	2042736	Swiss-Prot 1010711	M	Acetylation	MDIAIQHPWF
+CRYAA_LOXAF	P02498	1	N-acetylmethionine.	870070	Swiss-Prot 1010711	M	Acetylation	MDVTIQHPWF
+CRYAA_ORYAF	P02501	1	N-acetylmethionine.	7254349	Swiss-Prot 1010711	M	Acetylation	MDVTIQHPWF
+CRYAA_RABIT	P02493	1	N-acetylmethionine.	8427639	Swiss-Prot 1010711	M	Acetylation	MDVTIQHPWF
+CRYAA_RANES	P02507	1	N-acetylmethionine.	6723655	Swiss-Prot 1010711	M	Acetylation	MDITIQHPWF
+CRYAA_SQUAC	P02509	1	N-acetylmethionine.	3356684	Swiss-Prot 1010711	M	Acetylation	MDLAIQYPWF
+CRYAA_TUPTE	P02506	1	N-acetylmethionine.	3870872	Swiss-Prot 1010711	M	Acetylation	MDITIQHPWF
+CRYAB_BOVIN	P02510	1	N-acetylmethionine.	4477528	Swiss-Prot 1010711	M	Acetylation	MDIAIHHPWI
+CRYAB_SQUAC	P02512	1	N-acetylmethionine.	3356684	Swiss-Prot 1010711	M	Acetylation	MDIAIQHPWL
+CTIF_HUMAN	O43310	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MENSSAASAS
+CY561_BOVIN	P10897	1	N-acetylmethionine.	12768340	Swiss-Prot 1010711	M	Acetylation	MEGPASPARA
+CYTA_RAT	P01039	1	N-acetylmethionine.	6732797	Swiss-Prot 1010711	M	Acetylation	MDPGTTGIVG
+CYTB_BOVIN	P25417	1	N-acetylmethionine.	1544453	Swiss-Prot 1010711	M	Acetylation	MMCGGTSATQ
+CYTB_HUMAN	P04080	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MMCGAPSATQ
+CYTB_PIG	Q29290	1	N-acetylmethionine.	8898076	Swiss-Prot 1010711	M	Acetylation	MMCGAPSATQ
+CYTB_RAT	P01041	1	N-acetylmethionine.	6626228	Swiss-Prot 1010711	M	Acetylation	MMCGAPSATM
+CYTX_BOVIN	P35478	1	N-acetylmethionine.	8463267	Swiss-Prot 1010711	M	Acetylation	MWGPNLGGFS
+DAZP1_HUMAN	Q96EP5	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MNNSGADEIG
+DCUP_HUMAN	P06132	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEANGLGPQG
+DCXR_HUMAN	Q7Z4W1	1	N-acetylmethionine.	12665801	Swiss-Prot 1010711	M	Acetylation	MELFLAGRRV
+DDX42_HUMAN	Q86XP3	1	N-acetylmethionine.	19608861	Swiss-Prot 1010711	M	Acetylation	MNWNKGGPGT
+DDX56_HUMAN	Q9NY93	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEDSEALGFE
+DFFA_HUMAN	O00273	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEVTGDAGVP
+DGC14_HUMAN	Q96DF8	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	METPGASASS
+DHYS_HUMAN	P49366	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEGSLEREAP
+DIAP1_HUMAN	O60610	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEPPGGSLGP
+DIAP2_HUMAN	O60879	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEQPGAAASG
+DIDO1_HUMAN	Q9BTC0	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDDKGDPSNE
+DNM1L_HUMAN	O00429	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEALIPVINK
+DPOD2_HUMAN	P49005	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MFSEQAAQRA
+DPTOR_HUMAN	Q8TB45	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEEGGSTGSA
+DPY30_HUMAN	Q9C005	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEPEQMLEGQ
+DUS12_HUMAN	Q9UNI6	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MLEAPGPSDG
+DYLT1_HUMAN	P63172	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEDYQAAEET
+E41L3_HUMAN	Q9Y2J2	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MTTESGSDSE
+EHD3_HUMAN	Q9NZN3	1	N-acetylmethionine.	12665801	Swiss-Prot 1010711	M	Acetylation	MFSWLGTDDR
+EIF1_HUMAN	P41567	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MSAIQNLHSF
+EIF3B_HUMAN	P55884	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MQDAENVAVP
+ELOB_HUMAN	Q15370	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDVFLMIRRH
+EMD_HUMAN	P50402	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDNYADLSDT
+ENL_HUMAN	Q03111	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDNQCTVQVR
+ESYT1_HUMAN	Q9BSJ8	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MERSPGEGPS
+ETS1_HUMAN	P14921	1	N-acetylmethionine.	19608861	Swiss-Prot 1010711	M	Acetylation	MKAAVDLKPT
+EYA3_HUMAN	Q99504	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEEEQDLPEQ
+EYA4_HUMAN	O95677	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEDSQDLNEQ
+F10C1_HUMAN	Q70Z53	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MHGHGGYDSD
+F168A_HUMAN	Q92567	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MNPVYSPVQP
+F168B_HUMAN	A1KXE4	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MNPVYSPGSS
+F18B2_HUMAN	Q96ET8	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MLQQDSNDDT
+F192A_HUMAN	Q9GZU8	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDGGDDGNLI
+FA32A_HUMAN	Q9Y421	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEAYEQVQKG
+FA40A_HUMAN	Q5VSL9	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEPAVGGPGP
+FA58A_HUMAN	Q8N1B3	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEAPEGGGGG
+FABPL_BOVIN	P80425	1	N-acetylmethionine.	8344916	Swiss-Prot 1010711	M	Acetylation	MNFSGKYQVQ
+FABPL_RAT	P02692	1	N-acetylmethionine.	7084456	Swiss-Prot 1010711	M	Acetylation	MNFSGKYQVQ
+FADD_HUMAN	Q13158	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDPFLVLLHS
+FAS_HUMAN	P49327	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEEVVIAGMS
+FBX22_HUMAN	Q8NEZ5	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEPVGCCGEC
+FICD_HUMAN	Q9BVA6	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MMLIPMASVM
+FIS1_HUMAN	Q9Y3D6	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEAVLNELVS
+FKBP5_HUMAN	Q13451	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MTTDEGAKNN
+FLII_HUMAN	Q13045	1	N-acetylmethionine.	12665801	Swiss-Prot 1010711	M	Acetylation	MEATGVLPFV
+FN3K_HUMAN	Q9H479	1	N-acetylmethionine.	11016445	Swiss-Prot 1010711	M	Acetylation	MEQLLRAELR
+GAL80_YEAST	P04387	1	N-acetylmethionine.	1985957	Swiss-Prot 1010711	M	Acetylation	MDYNKRSSVS
+GDIB_HUMAN	P50395	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MNEEYDVIVL
+GEMI4_HUMAN	P57678	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDLGPLNICE
+GGA1_HUMAN	Q9UJY5	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEPAMEPETL
+GLI3_HUMAN	P10071	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEAQSHSSTT
+GOGA3_HUMAN	Q08378	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDGASAEQDG
+GOX_SPIOL	P05414	1	N-acetylmethionine.	3286256	Swiss-Prot 1010711	M	Acetylation	MEITNVNEYE
+GPTC4_HUMAN	Q5T3I0	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MNVTPEVKSR
+GSTA4_RAT	P14942	1	N-acetylmethionine.	2775231	Swiss-Prot 1010711	M	Acetylation	MEVKPKLYYF
+H1BP3_HUMAN	Q53T59	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MQSPAVLVTS
+H2A2_WHEAT	P02276	1	N-acetylmethionine.	3371346	Swiss-Prot 1010711	M	Acetylation	MDGSKAKKVA
+HAKAI_HUMAN	Q75N03	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDHTDNELQG
+HBSAG_HBVD3	P03138	109	N-acetylmethionine; by host; in isoformM; partial.	10207016	Swiss-Prot 1010711	M	Acetylation	MQWNSTTFHQ
+HBXIP_HUMAN	O43504	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEATLEQHLE
+HMOX1_HUMAN	P09601	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MERPQPDSMP
+HN1L_HUMAN	Q9H910	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MFQVPDSEGG
+HNRH1_HUMAN	P31943	1	N-acetylmethionine; in Heterogeneousnuclear ribonucleoprotein H; alternate.	19413330	Swiss-Prot 1010711	M	Acetylation	MMLGTEGGEG
+HNRH1_HUMAN	P31943	2	N-acetylmethionine; in Heterogeneousnuclear ribonucleoprotein H, N-terminally	19413330	Swiss-Prot 1010711	M	Acetylation	MLGTEGGEGF
+HNRH2_HUMAN	P55795	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MMLSTEGREG
+HNRH3_HUMAN	P31942	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDWVMKHNGP
+HNRPF_HUMAN	P52597	1	N-acetylmethionine; in Heterogeneousnuclear ribonucleoprotein F; alternate.	19413330	Swiss-Prot 1010711	M	Acetylation	MMLGPEGGEG
+HNRPF_HUMAN	P52597	2	N-acetylmethionine; in Heterogeneousnuclear ribonucleoprotein F, N-terminally	19413330	Swiss-Prot 1010711	M	Acetylation	MLGPEGGEGF
+HNRPK_HUMAN	P61978	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	METEQPEETF
+HOOK1_HUMAN	Q9UJC3	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEETQPPPQP
+HSF1_HUMAN	Q00613	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDLPVGPGAA
+IF172_HUMAN	Q9UG01	1	N-acetylmethionine.	20388717	Swiss-Prot 1010711	M	Acetylation	MHLKHLRTLL
+IF4G2_HUMAN	P78344	1	N-acetylmethionine.	12665801;19413330	Swiss-Prot 1010711	M	Acetylation	MESAIAEGGA
+ILEU_HUMAN	P30740	1	N-acetylmethionine.	12665801	Swiss-Prot 1010711	M	Acetylation	MEQLSSANTR
+IMA7_HUMAN	O60684	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	METMASPGKD
+IMB1_HUMAN	Q14974	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MELITILEKT
+IPO11_HUMAN	Q9UI26	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDLNSASTVV
+IPO4_HUMAN	Q8TEX9	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MESAGLEQLL
+IPO7_HUMAN	O95373	1	N-acetylmethionine.	12665801;19413330	Swiss-Prot 1010711	M	Acetylation	MDPNTIIEAL
+IRAK4_HUMAN	Q9NWZ3	1	N-acetylmethionine.	19608861	Swiss-Prot 1010711	M	Acetylation	MNKPITPSTY
+JIP4_HUMAN	O60271	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MELEDGVVYQ
+K6PP_HUMAN	Q01813	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDADDSRAPK
+KAD1_HUMAN	P00568	1	N-acetylmethionine.	183954	Swiss-Prot 1010711	M	Acetylation	MEEKLKKTKI
+KAD1_PIG	P00571	1	N-acetylmethionine.	4366177	Swiss-Prot 1010711	M	Acetylation	MEEKLKKSKI
+KAD1_RABIT	P00569	1	N-acetylmethionine.	6089869	Swiss-Prot 1010711	M	Acetylation	MEEKLKKAKI
+KAP0_HUMAN	P10644	1	N-acetylmethionine.	12665801;19413330	Swiss-Prot 1010711	M	Acetylation	MESGSTAASE
+KLF3_HUMAN	P57682	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MLMFDPVPVK
+KLRG2_HUMAN	A4D1S0	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEESWEAAPG
+KPRA_HUMAN	Q14558	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MNAARTGYRV
+KPRB_HUMAN	O60256	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MFCVTPPELE
+LARP4_HUMAN	Q71RC2	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MLLFVEQVAS
+LASP1_HUMAN	Q14847	1	N-acetylmethionine.	12665801;19413330	Swiss-Prot 1010711	M	Acetylation	MNPNCARCGK
+LASP1_PIG	P80171	1	N-acetylmethionine.	8425549	Swiss-Prot 1010711	M	Acetylation	MNPNCARCGK
+LC7L3_HUMAN	O95232	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MISAAQLLDE
+LECH_CHICK	P02707	1	N-acetylmethionine.	7240175	Swiss-Prot 1010711	M	Acetylation	MDEERLSDNV
+LIMD2_HUMAN	Q9BT23	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MFQAAGAAQA
+LMNA_HUMAN	P02545	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	METPSQRRAT
+LT_SV40	P03070	1	N-acetylmethionine; by host.	205802	Swiss-Prot 1010711	M	Acetylation	MDKVLNREES
+M1IP1_HUMAN	Q9NPA3	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MMQICDTYNQ
+M21D1_HUMAN	Q8N884	1	N-acetylmethionine.	19608861	Swiss-Prot 1010711	M	Acetylation	MQPWHGKAMQ
+MAK16_HUMAN	Q9BXY0	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MQSDDVIWDT
+MAOX_HUMAN	P48163	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEPEAPRRRH
+MAPK3_HUMAN	Q16644	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDGETAEEQG
+MARHA_HUMAN	Q8NA82	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MLHDARDRQK
+MAST3_HUMAN	O60307	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDESSLLRRR
+MAT1_HUMAN	P51948	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDDQGCPRCK
+MBB1A_HUMAN	Q9BQG0	1	N-acetylmethionine.	19007248	Swiss-Prot 1010711	M	Acetylation	MESRDPAQPM
+MCM6_HUMAN	Q14566	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDLAAAAEPG
+MDN1_HUMAN	Q9NU22	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEHFLLEVAA
+MED15_HUMAN	Q96RN5	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDVSGQETDW
+MEPCE_HUMAN	Q7L2J0	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MIEMAAEKEP
+MGN_HUMAN	P61326	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MESDFYLRYY
+MMTA2_HUMAN	Q9BU76	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MFGSSRGGVR
+MON1B_HUMAN	Q7L1V2	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEVGGDTAAP
+MP2K2_HUMAN	P36507	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MLARRKPVLP
+MP2K3_HUMAN	P46734	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MESPASSQPA
+MPP8_HUMAN	Q99549	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEQVAEGARV
+MSI1H_HUMAN	O43347	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	METDAPQPGL
+MSI2H_HUMAN	Q96DH6	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEANGSQGTS
+MSS4_HUMAN	P47224	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEPAEQPSEL
+MT_XENLA	Q05890	1	N-acetylmethionine.	8494610	Swiss-Prot 1010711	M	Acetylation	MDPQDCKCET
+MT1_MOUSE	P02802	1	N-acetylmethionine.	914867	Swiss-Prot 1010711	M	Acetylation	MDPNCSCSTG
+MT1_RAT	P02803	1	N-acetylmethionine.	6470004	Swiss-Prot 1010711	M	Acetylation	MDPNCSCSTG
+MT1E_HUMAN	P04732	1	N-acetylmethionine.	1779803	Swiss-Prot 1010711	M	Acetylation	MDPNCSCATG
+MT1H_HUMAN	P80294	1	N-acetylmethionine.	8119276	Swiss-Prot 1010711	M	Acetylation	MDPNCSCEAG
+MT1X_HUMAN	P80297	1	N-acetylmethionine.	8119276;19413330	Swiss-Prot 1010711	M	Acetylation	MDPNCSCSPV
+MT2_BOVIN	P68301	1	N-acetylmethionine.	4019500	Swiss-Prot 1010711	M	Acetylation	MDPNCSCTAG
+MT2_HUMAN	P02795	1	N-acetylmethionine.	913597;19413330	Swiss-Prot 1010711	M	Acetylation	MDPNCSCAAG
+MT2_MOUSE	P02798	1	N-acetylmethionine.	7287658	Swiss-Prot 1010711	M	Acetylation	MDPNCSCASD
+MT2_RAT	P04355	1	N-acetylmethionine.	6470004	Swiss-Prot 1010711	M	Acetylation	MDPNCSCATD
+MTAL2_YEAST	P0CY08	1	N-acetylmethionine.	20110468	Swiss-Prot 1010711	M	Acetylation	MNKIPIKDLL
+MTMR1_HUMAN	Q13613	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDRPAAAAAA
+MYPC3_MOUSE	O70468	1	N-acetylmethionine.	19541641	Swiss-Prot 1010711	M	Acetylation	MPEPGKKPVS
+NAA10_HUMAN	P41227	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MNIRNARPED
+NAF1_HUMAN	Q96HR8	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEVVEAAAAQ
+NCOA5_HUMAN	Q9HCD5	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MNTAPSRPSP
+NDKB_MERAA	P85288	1	N-acetylmethionine.	17622168	Swiss-Prot 1010711	M	Acetylation	MEQTFVAIKP
+NDKB_MERAP	P85287	1	N-acetylmethionine.	17622168	Swiss-Prot 1010711	M	Acetylation	MEQTFVAIKP
+NDKB_MERBI	P85290	1	N-acetylmethionine.	17622168	Swiss-Prot 1010711	M	Acetylation	MEQTFIAIKP
+NDKB_MERGA	P85286	1	N-acetylmethionine.	17622168	Swiss-Prot 1010711	M	Acetylation	MEQTFVAIKP
+NDKB_MERHU	P85285	1	N-acetylmethionine.	17622168	Swiss-Prot 1010711	M	Acetylation	MEQTFVAIKP
+NDKB_MERPR	P85289	1	N-acetylmethionine.	17622168	Swiss-Prot 1010711	M	Acetylation	MEQTFVAIKP
+NDRG3_HUMAN	Q9UGV2	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDELQDVQLT
+NDUAC_BOVIN	O97725	1	N-acetylmethionine.	9827566	Swiss-Prot 1010711	M	Acetylation	MELLQVLKRG
+NEK7_HUMAN	Q8TDX7	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDEQSQGMQG
+NEUG_HUMAN	Q92686	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDCCTENACS
+NMD3_HUMAN	Q96D46	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEYMAESTDR
+NONO_HUMAN	Q15233	1	N-acetylmethionine.	19608861	Swiss-Prot 1010711	M	Acetylation	MQSNKTFNLE
+NPM_HUMAN	P06748	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEDSMDMDMS
+NU107_HUMAN	P57740	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDRSGFGEIS
+NU133_HUMAN	Q8WUM0	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MFPAAPSPRT
+NUBP1_HUMAN	P53384	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEEVPHDCPG
+NUBP2_HUMAN	Q9Y5Y2	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEAAAEPGNL
+NUDC1_HUMAN	Q96RS6	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEVAANCSLR
+NUDT5_HUMAN	Q9UKK9	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MESQEPTESS
+NUP85_HUMAN	Q9BW27	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEELDGEPTV
+NUP93_HUMAN	Q8N1F7	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDTEGFGELL
+OGFR_HUMAN	Q9NZT2	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDDPDCDSTW
+OSB11_HUMAN	Q9BXB4	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MQGGEPVSTM
+OTU6B_HUMAN	Q8N6M0	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEAVLTEELD
+OTUD4_HUMAN	Q01804	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEAAVGVPDG
+PABP1_HUMAN	P11940	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MNPSAPSYPM
+PADI2_MOUSE	Q08642	1	N-acetylmethionine.	8354274	Swiss-Prot 1010711	M	Acetylation	MQPPIRENML
+PAI2B_HUMAN	Q9ULR5	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MNGSNMANTS
+PAXI_HUMAN	P49023	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDDLDALLAD
+PCFT_HUMAN	Q96NT5	1	N-acetylmethionine.	19007248	Swiss-Prot 1010711	M	Acetylation	MEGSASPPEK
+PCH2_HUMAN	Q15645	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDEAVGDLKQ
+PCY1A_HUMAN	P49585	1	N-acetylmethionine.	19608861	Swiss-Prot 1010711	M	Acetylation	MDAQCSAKVN
+PDCL3_HUMAN	Q9H2J4	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MQDPNADTEW
+PDE2A_BOVIN	P14099	1	N-acetylmethionine.	2176866	Swiss-Prot 1010711	M	Acetylation	MRRQPAASRD
+PDS5A_HUMAN	Q29RF7	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDFTAQPKPA
+PEX5_YEAST	P35056	1	N-acetylmethionine.	17550898	Swiss-Prot 1010711	M	Acetylation	MDVGSCSVGN
+PIP11_ARATH	P61837	1	N-acetylmethionine.	16839310	Swiss-Prot 1010711	M	Acetylation	MEGKEEDVRV
+PIP12_ARATH	Q06611	1	N-acetylmethionine.	16839310	Swiss-Prot 1010711	M	Acetylation	MEGKEEDVRV
+PIP13_ARATH	Q08733	1	N-acetylmethionine.	16839310	Swiss-Prot 1010711	M	Acetylation	MEGKEEDVRV
+PIP14_ARATH	Q39196	1	N-acetylmethionine.	16839310	Swiss-Prot 1010711	M	Acetylation	MEGKEEDVRV
+PLRG1_HUMAN	O43660	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MVEEVQKHSV
+PNO1_HUMAN	Q9NRX1	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MESEMETQSA
+PNPH_HUMAN	P00491	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MENGYTYEDY
+PP2AA_HUMAN	P67775	1	N-acetylmethionine.	19608861	Swiss-Prot 1010711	M	Acetylation	MDEKVFTKEL
+PPCT_BOVIN	P02720	1	N-acetylmethionine.	7042332	Swiss-Prot 1010711	M	Acetylation	MDPGAGAFSE
+PPLA_BOVIN	A4IFH6	1	N-acetylmethionine.	17060615	Swiss-Prot 1010711	M	Acetylation	MDKVQYLTRS
+PPLA_CANFA	P61012	1	N-acetylmethionine.	3753485	Swiss-Prot 1010711	M	Acetylation	MDKVQYLTRS
+PPR1A_RABIT	P01099	1	N-acetylmethionine.	6290217	Swiss-Prot 1010711	M	Acetylation	MEQDNSPRKI
+PPR1B_BOVIN	P07516	1	N-acetylmethionine.	3511054	Swiss-Prot 1010711	M	Acetylation	MDPKDRKKIQ
+PRAF3_HUMAN	O75915	1	N-acetylmethionine.	12665801	Swiss-Prot 1010711	M	Acetylation	MDVNIAPLRA
+PRI1_HUMAN	P49642	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	METFDPTELP
+PRS6A_HUMAN	P17980	1	N-acetylmethionine.	17323924;19413330	Swiss-Prot 1010711	M	Acetylation	MNLLPNIESP
+PRS6B_HUMAN	P43686	1	N-acetylmethionine.	17323924;19413330	Swiss-Prot 1010711	M	Acetylation	MEEIGILVEK
+PRS6B_YEAST	P33298	1	N-acetylmethionine.	12504901;15665377	Swiss-Prot 1010711	M	Acetylation	MEELGIVTPV
+PSA1_HALVD	Q9V2V6	1	N-acetylmethionine; alternate.	16950923	Swiss-Prot 1010711	M	Acetylation	MQGQAQQQAY
+PSA1_HUMAN	P25786	1	N-acetylmethionine.	17323924	Swiss-Prot 1010711	M	Acetylation	MFRNQYDNDV
+PSA1_RAT	P18420	1	N-acetylmethionine.	2335242	Swiss-Prot 1010711	M	Acetylation	MFRNQYDNDV
+PSA2_HALVD	Q9V2V5	1	N-acetylmethionine.	16950923	Swiss-Prot 1010711	M	Acetylation	MNRNDKQAYD
+PSA5_HUMAN	P28066	1	N-acetylmethionine.	17323924	Swiss-Prot 1010711	M	Acetylation	MFLTRSEYDR
+PSB2_HUMAN	P49721	1	N-acetylmethionine.	17323924;19413330	Swiss-Prot 1010711	M	Acetylation	MEYLIGIQGP
+PSD10_HUMAN	O75832	1	N-acetylmethionine.	17323924	Swiss-Prot 1010711	M	Acetylation	MEGCVSNLMV
+PSF2_HUMAN	Q9Y248	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDAAEVEFLA
+PSMD1_HUMAN	Q99460	1	N-acetylmethionine; partial.	17323924;19413330	Swiss-Prot 1010711	M	Acetylation	MITSAAGIIS
+PSMD2_HUMAN	Q13200	1	N-acetylmethionine.	17323924	Swiss-Prot 1010711	M	Acetylation	MEEGGRDKAP
+PSMG3_HUMAN	Q9BT73	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEDTPLVISK
+PSPC1_HUMAN	Q8WXF1	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MMLRGNLKQV
+PTBP1_HUMAN	P26599	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDGIVPDIAV
+PTBP2_HUMAN	Q9UKA9	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDGIVTEVAV
+PTN1_HUMAN	P18031	1	N-acetylmethionine.	2546149	Swiss-Prot 1010711	M	Acetylation	MEMEKEFEQI
+PTN12_HUMAN	Q05209	1	N-acetylmethionine.	12665801	Swiss-Prot 1010711	M	Acetylation	MEQVEILRKF
+PTN9_HUMAN	P43378	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEPATAPRPD
+PTRF_HUMAN	Q6NZI2	1	N-acetylmethionine.	15242332	Swiss-Prot 1010711	M	Acetylation	MEDPTLYIVE
+PUR9_HUMAN	P31939	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MAPGQLALFS
+PUS7_HUMAN	Q96PZ0	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEMTEMTGVS
+PWP1_HUMAN	Q13610	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MNRSRQVTCV
+PYRD1_HUMAN	Q8WU10	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEAARPPPTA
+RAB1B_HUMAN	Q9H0U4	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MNPEYDYLFK
+RAD21_HUMAN	O60216	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MFYAHFVLSK
+RAPH1_HUMAN	Q70E73	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEQLSDEEID
+RCD1_HUMAN	Q92600	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MHSLATAAPV
+RFA2_HUMAN	P15927	1	N-acetylmethionine.	9139719;19413330	Swiss-Prot 1010711	M	Acetylation	MWNSGFESYG
+RFC2_HUMAN	P35250	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEVEAVCGGA
+RFC4_HUMAN	P35249	1	N-acetylmethionine.	19608861	Swiss-Prot 1010711	M	Acetylation	MQAFLKGTSI
+RHG01_HUMAN	Q07960	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDPLSELQDD
+RL1D1_HUMAN	O76021	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEDSASASLS
+RL7_HUMAN	P18124	1	N-acetylmethionine.	12962325;19413330	Swiss-Prot 1010711	M	Acetylation	MEGVEEKKKE
+RMD5A_HUMAN	Q9H871	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDQCVTVERE
+RMXL2_HUMAN	O75526	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MVEADRPGKL
+RNH2C_HUMAN	Q8TDP1	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MESGDEAAIE
+RO60_HUMAN	P10155	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEESVNQMQP
+ROA0_HUMAN	Q13151	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MENSQLCKLF
+ROA2_HUMAN	P22626	1	N-acetylmethionine.	19608861	Swiss-Prot 1010711	M	Acetylation	MEKTLETVPL
+ROA3_HUMAN	P51991	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEVKPPPGRP
+RPA34_HUMAN	O15446	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEEPQAGDAA
+RPAB1_HUMAN	P19388	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDDEEETYRL
+RPAC2_HUMAN	Q9Y2S0	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEEDQELERK
+RPB1_HUMAN	P24928	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MHGGGPPSGD
+RPB9_HUMAN	P36954	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEPDGTYEPG
+RPF2_HUMAN	Q9H7B2	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDTLDRVVKP
+RPN11_YEAST	P43588	1	N-acetylmethionine.	12504901	Swiss-Prot 1010711	M	Acetylation	MERLQRLMMN
+RRS1_HUMAN	Q15050	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEGQSVEELL
+RS21_HUMAN	P63220	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MQNDAGEFVD
+RS21A_YEAST	P0C0V8	1	N-acetylmethionine.	10601260	Swiss-Prot 1010711	M	Acetylation	MENDKGQLVE
+RS21B_YEAST	Q3E754	1	N-acetylmethionine.	10601260	Swiss-Prot 1010711	M	Acetylation	MENDKGQLVE
+RS24_HUMAN	P62847	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MNDTVTIRTR
+RS28_HUMAN	P62857	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDTSRVQPIK
+RS28A_YEAST	Q3E7X9	1	N-acetylmethionine.	10601260	Swiss-Prot 1010711	M	Acetylation	MDNKTPVTLA
+RS28B_YEAST	P0C0X0	1	N-acetylmethionine.	10601260	Swiss-Prot 1010711	M	Acetylation	MDSKTPVTLA
+RS5_HUMAN	P46782	1	N-acetylmethionine; in 40S ribosomalprotein S5; alternate.	19413330	Swiss-Prot 1010711	M	Acetylation	MTEWETAAPA
+RTN4_HUMAN	Q9NQC3	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEDLDQSPLV
+SAE1_HUMAN	Q9UBE0	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MVEKEEAGGG
+SAMH1_HUMAN	Q9Y3Z3	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MQRADSEQPS
+SAMP_HUMAN	P02743	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MNKPLLWISV
+SATB1_HUMAN	Q01826	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDHLNEATQG
+SCLY_HUMAN	Q96I15	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEAAVAPGRD
+SEN54_HUMAN	Q7Z6J9	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEPEPEPAAV
+SENP8_HUMAN	Q96LD8	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDPVVLSYMD
+SERB_HUMAN	P78330	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MVSHSELRKL
+SERC_HUMAN	Q9Y617	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDAPRQVVNF
+SF3A2_HUMAN	Q15428	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDFQHRPGGK
+SF3A3_HUMAN	Q12874	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	METILEQQRR
+SIK3_HUMAN	Q9Y2K2	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MPARIGYYEI
+SLAI2_HUMAN	Q9P270	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEDVNSNVNA
+SNG1_HUMAN	O43759	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEGGAYGAGK
+SNG2_HUMAN	O43760	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MESGAYGAAK
+SNP23_HUMAN	O00161	1	N-acetylmethionine.	12665801;19413330	Swiss-Prot 1010711	M	Acetylation	MDNLSSEEIQ
+SNPC4_HUMAN	Q5SXM2	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDVDAEREKI
+SNX4_HUMAN	O95219	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEQAPPDPER
+SPC25_HUMAN	Q9HBM1	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MVEDELALFD
+SPEE_HUMAN	P19623	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEPGPDGPAA
+SPG20_HUMAN	Q8N0X7	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEQEPQNGEP
+SPRE_RAT	P18297	1	N-acetylmethionine.	2260974	Swiss-Prot 1010711	M	Acetylation	MEGGRLGCAV
+SRRM1_HUMAN	Q8IYB3	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDAGFFRGTS
+SRSF3_HUMAN	P84103	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MHRDSCPLDC
+ST_SV40	P03081	1	N-acetylmethionine; by host.	205802	Swiss-Prot 1010711	M	Acetylation	MDKVLNREES
+STIP1_HUMAN	P31948	1	N-acetylmethionine.	19413330;19608861	Swiss-Prot 1010711	M	Acetylation	MEQVNELKEK
+STK3_HUMAN	Q13188	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEQPPAPKSK
+STRN4_HUMAN	Q9NRL3	2	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEERAAAAVA
+SYAC_HUMAN	P49588	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDSTLTASEI
+SYIC_HUMAN	P41252	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MLQQVPENIN
+SYRC_HUMAN	P54136	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDVLVSECSA
+TAF11_HUMAN	Q15544	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDDAHESPSD
+TAF9_HUMAN	Q16594	1	N-acetylmethionine.	19608861	Swiss-Prot 1010711	M	Acetylation	MESGKTASPK
+TARB1_HUMAN	Q13395	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEWVLAEALL
+TAT1_YEAST	P38085	1	N-acetylmethionine.	15665377	Swiss-Prot 1010711	M	Acetylation	MDDSVSFIAK
+TBCD4_HUMAN	O60343	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEPPSCIQDE
+TCEA1_HUMAN	P23193	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEDEVVRFAK
+TCPA_HUMAN	P17987	1	N-acetylmethionine.	12665801;19413330	Swiss-Prot 1010711	M	Acetylation	MEGPLSVFGD
+TCPG_HUMAN	P49368	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MMGHRPVLVL
+TCPH_HUMAN	Q99832	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MMPTPVILLK
+TEBP_HUMAN	Q15185	1	N-acetylmethionine.	19608861	Swiss-Prot 1010711	M	Acetylation	MQPASAKWYD
+TF3C4_HUMAN	Q9UKN8	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MNTADQARVG
+TFG_HUMAN	Q92734	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MNGQLDLSGK
+THIC_HUMAN	Q9BWD1	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MNAGSDPVVI
+TIM13_HUMAN	Q9Y5L4	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEGGFGSDFG
+TIM8A_HUMAN	O60220	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDSSSSSSAA
+TKT_HUMAN	P29401	1	N-acetylmethionine.	19413330;19608861	Swiss-Prot 1010711	M	Acetylation	MESYHKPDQQ
+TMM40_HUMAN	Q8WWA1	1	N-acetylmethionine.	12665801	Swiss-Prot 1010711	M	Acetylation	METSASSSQP
+TNPO1_HUMAN	Q92973	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MVWDRQTKME
+TNPO3_HUMAN	Q9Y5L0	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEGAKPTLQL
+TOM1_HUMAN	O60784	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDFLLGNPFS
+TOP2A_HUMAN	P11388	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEVSPLQPVN
+TOPK_HUMAN	Q96KB5	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEGISNFKTP
+TPD54_HUMAN	O43399	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDSAGQDINL
+TPM_CHIOP	A2V735	1	N-acetylmethionine.	20198602	Swiss-Prot 1010711	M	Acetylation	MDAIKKKMQA
+TPM1_RABIT	P58772	1	N-acetylmethionine.	7622625	Swiss-Prot 1010711	M	Acetylation	MDAIKKKMQM
+TPM2_RABIT	P58776	1	N-acetylmethionine.	7364764	Swiss-Prot 1010711	M	Acetylation	MDAIKKKMQM
+TRIA1_HUMAN	O43715	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MNSVGEACTD
+TRM6_HUMAN	Q9UJA5	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEGSGEQPGP
+TTC4_HUMAN	O95801	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEQPGQDPTS
+TYDP2_HUMAN	O95551	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MELGSCLEGG
+U5S1_HUMAN	Q15029	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDTDLYDEFG
+UB2Q1_HUMAN	Q7Z7E8	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MQQPQPQGQQ
+UBA6_HUMAN	A0AVT1	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEGSEPVAAH
+UBC12_HUMAN	P61081	1	N-acetylmethionine.	19608861;21940857	Swiss-Prot 1010711	M	Acetylation	MIKLFSLKQQ
+UBC12_YEAST	P52491	1	N-acetylmethionine.	21940857	Swiss-Prot 1010711	M	Acetylation	MLKLRQLQKK
+UBE2F_HUMAN	Q969M7	1	N-acetylmethionine.	19608861	Swiss-Prot 1010711	M	Acetylation	MLTLASKLKR
+UBE2S_HUMAN	Q16763	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MNSNVENLPP
+UBF1_HUMAN	P17480	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MNGEADCPTD
+UBP2L_HUMAN	Q14157	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MMTSVGTNRA
+UBP3_HUMAN	Q9Y6I4	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MECPHLSSSV
+UCHL1_HUMAN	P09936	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MQLKPMEINP
+UFC1_HUMAN	Q9Y3C8	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MADEATRRVV
+UFD1_HUMAN	Q92890	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MFSFNMFDHP
+UIF_HUMAN	Q96QD9	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MNRFGTRLVG
+UNG_HUMAN	P13051	1	N-acetylmethionine.	19608861	Swiss-Prot 1010711	M	Acetylation	MIGQKTLYSF
+VAMP8_HUMAN	Q9BV40	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEEASEGGGN
+VCX1_YEAST	Q99385	1	N-acetylmethionine.	15665377	Swiss-Prot 1010711	M	Acetylation	MDATTPLLTV
+VPS68_YEAST	Q12016	1	N-acetylmethionine.	15665377	Swiss-Prot 1010711	M	Acetylation	MEADDHVSLF
+WIBG_HUMAN	Q9BRP8	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEAAGSPAAT
+XPO2_HUMAN	P55060	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MELSDANLQT
+XPOT_HUMAN	O43592	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDEQALLGLN
+YB12A_YEAST	Q12217	1	N-acetylmethionine.	15665377	Swiss-Prot 1010711	M	Acetylation	MESQQLSNYP
+YB12B_YEAST	Q12193	1	N-acetylmethionine.	15665377	Swiss-Prot 1010711	M	Acetylation	MESQQLSNYP
+YD11A_YEAST	Q03856	1	N-acetylmethionine.	15665377	Swiss-Prot 1010711	M	Acetylation	MESQQLSNYP
+YD11B_YEAST	Q03855	1	N-acetylmethionine.	15665377	Swiss-Prot 1010711	M	Acetylation	MESQQLSNYP
+YD12A_YEAST	Q12441	1	N-acetylmethionine.	15665377	Swiss-Prot 1010711	M	Acetylation	MESQQLSNYP
+YD12B_YEAST	Q99231	1	N-acetylmethionine.	15665377	Swiss-Prot 1010711	M	Acetylation	MESQQLSNYP
+YD14A_YEAST	P0CX65	1	N-acetylmethionine.	15665377	Swiss-Prot 1010711	M	Acetylation	MESQQLSNYP
+YD14B_YEAST	P0C2I2	1	N-acetylmethionine.	15665377	Swiss-Prot 1010711	M	Acetylation	MESQQLSNYP
+YD21A_YEAST	Q12392	1	N-acetylmethionine.	15665377	Swiss-Prot 1010711	M	Acetylation	MESQQLSQNS
+YD21B_YEAST	Q12472	1	N-acetylmethionine.	15665377	Swiss-Prot 1010711	M	Acetylation	MESQQLSQNS
+YE032_HUMAN	Q52LT0	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MGEAILWAEG
+YE12A_YEAST	P0CX66	1	N-acetylmethionine.	15665377	Swiss-Prot 1010711	M	Acetylation	MESQQLSNYP
+YE12B_YEAST	Q03619	1	N-acetylmethionine.	15665377	Swiss-Prot 1010711	M	Acetylation	MESQQLSNYP
+YG13A_YEAST	P0CX67	1	N-acetylmethionine.	15665377	Swiss-Prot 1010711	M	Acetylation	MESQQLSNYP
+YG13B_YEAST	Q12316	1	N-acetylmethionine.	15665377	Swiss-Prot 1010711	M	Acetylation	MESQQLSNYP
+YH11A_YEAST	P0C2I4	1	N-acetylmethionine.	15665377	Swiss-Prot 1010711	M	Acetylation	MESQQLSNYP
+YH11B_YEAST	O13535	1	N-acetylmethionine.	15665377	Swiss-Prot 1010711	M	Acetylation	MESQQLSNYP
+YJ11B_YEAST	P47098	1	N-acetylmethionine.	15665377	Swiss-Prot 1010711	M	Acetylation	MESQQLSQHS
+YL11A_YEAST	P0CX68	1	N-acetylmethionine.	15665377	Swiss-Prot 1010711	M	Acetylation	MESQQLSNYP
+YL11B_YEAST	Q12088	1	N-acetylmethionine.	15665377	Swiss-Prot 1010711	M	Acetylation	MESQQLSNYP
+YM14A_YEAST	P0CX69	1	N-acetylmethionine.	15665377	Swiss-Prot 1010711	M	Acetylation	MESQQLSNYP
+YM14B_YEAST	Q04670	1	N-acetylmethionine.	15665377	Swiss-Prot 1010711	M	Acetylation	MESQQLSNYP
+YO12A_YEAST	P0CX59	1	N-acetylmethionine.	15665377	Swiss-Prot 1010711	M	Acetylation	MESQQLSNYP
+YO12B_YEAST	Q92393	1	N-acetylmethionine.	15665377	Swiss-Prot 1010711	M	Acetylation	MESQQLSNYP
+YP13A_YEAST	P0CX60	1	N-acetylmethionine.	15665377	Swiss-Prot 1010711	M	Acetylation	MESQQLSNYP
+YP13B_YEAST	P0C2J0	1	N-acetylmethionine.	15665377	Swiss-Prot 1010711	M	Acetylation	MESQQLSNYP
+Z280B_HUMAN	Q86YH2	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEQSCEEEKE
+ZC3HE_HUMAN	Q6PJT7	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEIGTEISRK
+ZFHX4_HUMAN	Q86UP3	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	METCDSPPIS
+ZN326_HUMAN	Q5BKZ1	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MDFEDDYTHS
+ZN346_HUMAN	Q9UL40	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEYPAPATVQ
+ZN618_HUMAN	Q5T7W0	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MNQPGGAAAP
+ZN655_HUMAN	Q8N720	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEEIPAQEAA
+ZNHI2_HUMAN	Q9UHR6	1	N-acetylmethionine.	19413330	Swiss-Prot 1010711	M	Acetylation	MEPAGPCGFC
+1433B_HUMAN	P31946	1	N-acetylmethionine; in 14-3-3 proteinbeta/alpha; alternate.	-	Swiss-Prot 1010711	M	Acetylation	MTMDKSELVQ
+1433E_RAT	P62260	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDDREDLVYQ
+1433E_SHEEP	P62262	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDDREDLVYQ
+1433G_HUMAN	P61981	1	N-acetylmethionine; in 14-3-3 proteingamma; alternate; partial.	-	Swiss-Prot 1010711	M	Acetylation	MVDREQLVQK
+1433Z_RAT	P63102	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDKNELVQKA
+4F2_HUMAN	P08195	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MELQPPEASI
+ACACA_HUMAN	Q13085	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDEPSPLAQP
+ACAC_CHICK	P11029	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MEESSQPAKP
+ACSL1_HUMAN	P33121	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MQAHELFRYF
+ACSL1_MOUSE	P41216	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MEVHELFRYF
+ACTB_MOUSE	P60710	1	N-acetylmethionine; in Actin, cytoplasmic1; alternate.	-	Swiss-Prot 1010711	M	Acetylation	MDDDIAALVV
+ACTG_BOVIN	P63258	1	N-acetylmethionine; in Actin, cytoplasmic2; alternate.	-	Swiss-Prot 1010711	M	Acetylation	MEEEIAALVI
+ACTG_MOUSE	P63260	1	N-acetylmethionine; in Actin, cytoplasmic2; alternate.	-	Swiss-Prot 1010711	M	Acetylation	MEEEIAALVI
+ANR40_HUMAN	Q6AI12	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MNALLEQKEQ
+APOL2_HUMAN	Q9BQE5	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MNPESSIFIE
+ARP3_DICDI	P42528	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MNPASGLPAV
+BCAR1_HUMAN	P56945	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MNHLNVLAKA
+CNRG_BOVIN	P04972	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MNLEPPKAEI
+COAT_BMDV	P15158	1	N-acetylmethionine; by host.	-	Swiss-Prot 1010711	M	Acetylation	MDSSEVVKVK
+COAT_TYMV	P03608	1	N-acetylmethionine; by host.	-	Swiss-Prot 1010711	M	Acetylation	MEIDKELAPQ
+COPR5_HUMAN	Q9NQ92	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDLQAAGAQA
+CP013_HUMAN	Q96S19	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MLVAAAAERN
+CPNS1_PIG	P04574	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MFLVNSFLKG
+CRBA1_HUMAN	P05813	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	METQAEQQEL
+CRBB3_HUMAN	P26998	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MAEQHGAPEQ
+CRYAA_HUMAN	P02489	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDVTIQHPWF
+CRYAA_MERUN	P68405	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDVTIQHPWF
+CRYAA_RAT	P24623	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDVTIQHPWF
+CRYAA_TUPGL	P68406	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDVTIQHPWF
+CRYAB_RABIT	P41316	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDIAIHHPWI
+DDC_PIG	P80041	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MNASDFRRRG
+DHE2_SULSO	P80053	2	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MEEVLSSSLY
+DNPEP_DICDI	Q54M70	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MEQYLPQAKE
+EI2BG_HUMAN	Q9NR50	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MEFQAVVMAV
+ELOB_RAT	P62870	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDVFLMIRRH
+FABP1_ECHGR	Q02970	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MEAFLGTWKM
+FABPL_HUMAN	P07148	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MSFSGKYQLQ
+FAS_MOUSE	P19096	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MEEVVIAGMS
+FKBP4_HUMAN	Q02790	1	N-acetylmethionine; in FK506-bindingprotein 4; alternate.	-	Swiss-Prot 1010711	M	Acetylation	MTAEEMKATE
+FL2D_HUMAN	Q15007	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MTNEEPLPKK
+GAG_SCVLA	P32503	1	N-acetylmethionine; by host N-acetyltransferase MAK3.	-	Swiss-Prot 1010711	M	Acetylation	MLRFVTKNSQ
+GOSR2_HUMAN	O14653	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDPLFQQTHK
+GRB2_HUMAN	P62993	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MEAIAKYDFK
+GSTA1_ANTST	P80894	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MAGEQNIKYF
+H2A3_WHEAT	P02277	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDASKLKKVA
+HNRH1_MOUSE	O35737	1	N-acetylmethionine; in Heterogeneousnuclear ribonucleoprotein H; alternate	-	Swiss-Prot 1010711	M	Acetylation	MMLGAEGGEG
+HNRH1_MOUSE	O35737	2	N-acetylmethionine; in Heterogeneousnuclear ribonucleoprotein H, N-terminally	-	Swiss-Prot 1010711	M	Acetylation	MLGAEGGEGF
+HNRH1_RAT	Q8VHV7	1	N-acetylmethionine; in Heterogeneousnuclear ribonucleoprotein H; alternate	-	Swiss-Prot 1010711	M	Acetylation	MMLGAEGGEG
+HNRH1_RAT	Q8VHV7	2	N-acetylmethionine; in Heterogeneousnuclear ribonucleoprotein H, N-terminally	-	Swiss-Prot 1010711	M	Acetylation	MLGAEGGEGF
+HNRPF_BOVIN	Q5E9J1	1	N-acetylmethionine; in Heterogeneousnuclear ribonucleoprotein F; alternate	-	Swiss-Prot 1010711	M	Acetylation	MMLGPEGGEG
+HNRPF_BOVIN	Q5E9J1	2	N-acetylmethionine; in Heterogeneousnuclear ribonucleoprotein F, N-terminally	-	Swiss-Prot 1010711	M	Acetylation	MLGPEGGEGF
+HNRPF_MACFA	Q60HC3	1	N-acetylmethionine; in Heterogeneousnuclear ribonucleoprotein F; alternate	-	Swiss-Prot 1010711	M	Acetylation	MMLGPEGGEG
+HNRPF_MACFA	Q60HC3	2	N-acetylmethionine; in Heterogeneousnuclear ribonucleoprotein F, N-terminally	-	Swiss-Prot 1010711	M	Acetylation	MLGPEGGEGF
+HNRPF_MOUSE	Q9Z2X1	1	N-acetylmethionine; in Heterogeneousnuclear ribonucleoprotein F; alternate	-	Swiss-Prot 1010711	M	Acetylation	MMLGPEGGEG
+HNRPF_MOUSE	Q9Z2X1	2	N-acetylmethionine; in Heterogeneousnuclear ribonucleoprotein F, N-terminally	-	Swiss-Prot 1010711	M	Acetylation	MLGPEGGEGY
+HNRPF_RAT	Q794E4	1	N-acetylmethionine; in Heterogeneousnuclear ribonucleoprotein F; alternate	-	Swiss-Prot 1010711	M	Acetylation	MMLGPEGGEG
+HNRPF_RAT	Q794E4	2	N-acetylmethionine; in Heterogeneousnuclear ribonucleoprotein F, N-terminally	-	Swiss-Prot 1010711	M	Acetylation	MLGPEGGEGY
+HXK1_HUMAN	P19367	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MIAAQLLAYY
+IPA3_YEAST	P01094	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MNTDQQKVSE
+KAD1_BOVIN	P00570	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MEEKLKKTKI
+KYNU_RAT	P70712	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MEPSPLELPV
+LECA_CASCR	P82859	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MEEFLTVGLW
+LEG6_CHICK	P23668	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MEQGLVVTQL
+LRC8A_HUMAN	Q8IWT6	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MIPVTELRYF
+LSM4_HUMAN	Q9Y4Z0	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MLPLSLLKTA
+LT_POVSM	A8Y984	1	N-acetylmethionine; by host.	-	Swiss-Prot 1010711	M	Acetylation	MDYTLTREES
+MT1A_BOVIN	P67983	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDPNCSCPTG
+MT1A_HORSE	P02800	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDPNCSCPTG
+MT1A_RABIT	P11957	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDPNCSCATG
+MT1B_HORSE	P02801	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDPNCSCVAG
+MT1F_HUMAN	P04733	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDPNCSCAAG
+MT1G_HUMAN	P13640	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDPNCSCAAA
+MT1H_BOVIN	P55942	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDPNCSCATG
+MT2A_RABIT	P18055	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDPNCSCAAA
+MT2B_RABIT	P80289	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDPNCSCATG
+MT2C_RABIT	P80290	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDPNCSCATA
+MT2D_RABIT	P80291	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDPNCSCATR
+MT2E_RABIT	P80292	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDPNCSCATR
+MT2H_BOVIN	P55943	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDPNCSCATG
+MT2_STECO	P14425	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDPNCSCTAG
+MT3_BOVIN	P37359	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDPETCPCPT
+MT3_HORSE	P37360	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDPETCPCPT
+MT3_HUMAN	P25713	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDPETCPCPS
+MT_PLEPL	P07216	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDPCECSKTG
+MT_PSEAM	P55945	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDPCECSKTG
+MX1_BOVIN	P79135	1	N-acetylmethionine; in Interferon-inducedGTP-binding protein Mx1; alternate (By	-	Swiss-Prot 1010711	M	Acetylation	MVHSDLGIEE
+MX1_CANFA	Q9N0Y3	1	N-acetylmethionine; in Interferon-inducedGTP-binding protein Mx1; alternate (By	-	Swiss-Prot 1010711	M	Acetylation	MVNSQGKITD
+MX1_EUMJU	Q4ADG8	1	N-acetylmethionine; in Interferon-inducedGTP-binding protein Mx1; alternate (By	-	Swiss-Prot 1010711	M	Acetylation	MVNSKGKITD
+MX1_HORSE	Q28379	1	N-acetylmethionine; in Interferon-inducedGTP-binding protein Mx1; alternate (By	-	Swiss-Prot 1010711	M	Acetylation	MVHSEAKMTR
+MX1_HUMAN	P20591	1	N-acetylmethionine; in Interferon-inducedGTP-binding protein Mx1; alternate.	-	Swiss-Prot 1010711	M	Acetylation	MVVSEVDIAK
+MX1_MACMU	A1E2I4	1	N-acetylmethionine; in Interferon-inducedGTP-binding protein Mx1; alternate (By	-	Swiss-Prot 1010711	M	Acetylation	MVLSEVDIVK
+MX1_OTABY	Q4ADG7	1	N-acetylmethionine; in Interferon-inducedGTP-binding protein Mx1; alternate (By	-	Swiss-Prot 1010711	M	Acetylation	MVNSKGKITD
+MX1_PHOVI	Q4ADG6	1	N-acetylmethionine; in Interferon-inducedGTP-binding protein Mx1; alternate (By	-	Swiss-Prot 1010711	M	Acetylation	MVNSKGEITD
+MX1_PIG	P27594	1	N-acetylmethionine; in Interferon-inducedGTP-binding protein Mx1; alternate (By	-	Swiss-Prot 1010711	M	Acetylation	MVYSSCESKE
+MX1_PONAB	Q5R5G3	1	N-acetylmethionine; in Interferon-inducedGTP-binding protein Mx1; alternate (By	-	Swiss-Prot 1010711	M	Acetylation	MVLSEVDIAK
+MX1_SHEEP	P33237	1	N-acetylmethionine; in Interferon-inducedGTP-binding protein Mx1; alternate (By	-	Swiss-Prot 1010711	M	Acetylation	MVLSDLDIKE
+NDUC2_BOVIN	Q02827	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MMTGRQGRAT
+NEUA_HUMAN	Q8NFW8	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDSVEKGAAT
+NPP17_CAEEL	Q93454	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MFGSSGFGNK
+OAS3_HUMAN	Q9Y6K5	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDLYSTPAAA
+OPSD_BOVIN	P02699	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MNGTEGPNFY
+PDXK_SHEEP	P82197	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MEEECRVLSI
+PI3R5_PIG	O02696	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MQPGATTCTE
+PLAK_HUMAN	P14923	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MEVMNLMEQP
+PRS6B_DICDI	P34123	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MEELGLATAK
+PTBP1_MOUSE	P17225	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDGIVPDIAV
+PTBP1_RAT	Q00438	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDGIVPDIAV
+PUR7_YEAST	P27616	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MSITKTELDG
+PYR1_DICDI	P20054	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDILNRKKGC
+QORX_HUMAN	Q53FA7	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MLAVHFDKPG
+RAB18_HUMAN	Q9NP72	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDEDVLTTLK
+RASH_HUMAN	P01112	1	N-acetylmethionine; in GTPase HRas;alternate.	-	Swiss-Prot 1010711	M	Acetylation	MTEYKLVVVG
+RASK_HUMAN	P01116	1	N-acetylmethionine; in GTPase KRas;alternate.	-	Swiss-Prot 1010711	M	Acetylation	MTEYKLVVVG
+RBMX_BOVIN	Q29RT0	1	N-acetylmethionine; in Heterogeneousnuclear ribonucleoprotein G; alternate	-	Swiss-Prot 1010711	M	Acetylation	MVEADRPGKL
+RBMX_HUMAN	P38159	1	N-acetylmethionine; in Heterogeneousnuclear ribonucleoprotein G; alternate.	-	Swiss-Prot 1010711	M	Acetylation	MVEADRPGKL
+RBMX_MACFA	Q4R7F0	1	N-acetylmethionine; in Heterogeneousnuclear ribonucleoprotein G; alternate	-	Swiss-Prot 1010711	M	Acetylation	MVEADRPGKL
+RBMX_MOUSE	Q9WV02	1	N-acetylmethionine; in RNA-binding motifprotein, X chromosome; alternate (By	-	Swiss-Prot 1010711	M	Acetylation	MVEADRPGKL
+RBMX_PANTR	A5A6M3	1	N-acetylmethionine; in Heterogeneousnuclear ribonucleoprotein G; alternate	-	Swiss-Prot 1010711	M	Acetylation	MVEADRPGKL
+RBMX_RAT	Q4V898	1	N-acetylmethionine; in Heterogeneousnuclear ribonucleoprotein G; alternate	-	Swiss-Prot 1010711	M	Acetylation	MVEADRPGKL
+RINI_PIG	P10775	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MNLDIHCEQL
+RIR4_YEAST	P49723	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MEAHNQFLKT
+RL7_MICLU	P02395	1	N-acetylmethionine; in form MA2.	-	Swiss-Prot 1010711	M	Acetylation	MNKEQILEAI
+RL7_RAT	P05426	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MEAVPEKKKK
+RMXL1_HUMAN	Q96E39	1	N-acetylmethionine; in RNA binding motifprotein, X-linked-like-1; alternate (By	-	Swiss-Prot 1010711	M	Acetylation	MVEADRPGKL
+RMXL1_MOUSE	Q91VM5	1	N-acetylmethionine; in RNA binding motifprotein, X-linked-like-1; alternate (By	-	Swiss-Prot 1010711	M	Acetylation	MVEADRPGKL
+RMXL1_RAT	D4AE41	1	N-acetylmethionine; in RNA binding motifprotein, X-linked-like-1; alternate (By	-	Swiss-Prot 1010711	M	Acetylation	MVEADRPGKL
+RMXRL_RAT	P84586	1	N-acetylmethionine; in RNA binding motifprotein, X-linked-like-1; alternate (By	-	Swiss-Prot 1010711	M	Acetylation	MVEADRPGKL
+RPB11_HUMAN	P52435	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MNAPPAFESF
+RS21_RAT	P05765	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MQNDAGEFVD
+RS21_SCHPO	P05764	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MENEAGQLVD
+RS3_DICDI	P90526	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MNSSLQISKK
+RS7_RAT	P62083	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MFSSSAKIVK
+S10AB_PIG	P31950	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MAKRPTETER
+SAST_RAT	P08635	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	METAVNAKSP
+SMAD1_HUMAN	Q15797	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MNVTSLFSFT
+SPB3_HUMAN	P29508	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MNSLSEANTK
+SPB4_HUMAN	P48594	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MNSLSEANTK
+SRRM2_HUMAN	Q9UQ35	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MYNGIGLPTP
+STIP1_MOUSE	Q60864	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MEQVNELKEK
+STK4_HUMAN	Q13043	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	METVQLRNPP
+T22D3_PIG	P80220	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDLVKNHLMY
+TCPA_MOUSE	P11983	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MEGPLSVFGD
+TNNC1_BOVIN	P63315	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDDIYKAAVE
+TNNC1_HOMAM	P29289	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDTLDEDQVQ
+TNNC1_HUMAN	P63316	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDDIYKAAVE
+TNNC1_PIG	P63317	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDDIYKAAVE
+TNNC1_PONLE	P06707	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDSLDEEQVS
+TNNC2_BALNU	P21798	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MMDELDKDQI
+TNNC2_PONLE	P06708	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDTLDEEQLS
+TPM1_CHICK	P04268	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDAIKKKMQM
+TPM1_HUMAN	P09493	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDAIKKKMQM
+TPM_PANBO	P86704	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDAIKKKMQA
+TPM_PENMO	A1KYZ2	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MDAIKKKMQA
+TRM1_YEAST	P15565	17	N-acetylmethionine; in isoform 2.	-	Swiss-Prot 1010711	M	Acetylation	MLKAAISKIK
+VA0D_YEAST	P32366	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MEGVYFNIDN
+YPT1_YEAST	P01123	1	N-acetylmethionine.	-	Swiss-Prot 1010711	M	Acetylation	MNSEYDYLFK
+TPM1_HUMAN	P09493	1	N-acetylmethionine	2136742	HPRD 9.0	M	Acetylation	MDAIKKKMQM
+PTN1_HUMAN	P18031	1	N-acetylmethionine	2546149	HPRD 9.0	M	Acetylation	MEMEKEFEQI
+RL7_HUMAN	P18124	1	N-acetylmethionine	12962325	HPRD 9.0	M	Acetylation	MEGVEEKKKE
+NDUAC_HUMAN	Q9UI09	1	N-acetylmethionine	9827566	HPRD 9.0	M	Acetylation	MELVQVLKRG
+RS211_ARATH	Q9M337	1	N-acetylmethionine	17934214	SysPTM 1.1	M	Acetylation	MENDAGQVTE
+RS71_ARATH	Q9C514	1	N-acetylmethionine	17934214	SysPTM 1.1	M	Acetylation	MFSAQHKIHK
